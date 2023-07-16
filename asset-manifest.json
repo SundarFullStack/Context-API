@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Context-API/static/css/main.bda15bb6.css",
+    "main.js": "/Context-API/static/js/main.fc9bc286.js",
+    "static/js/787.b6dff4bc.chunk.js": "/Context-API/static/js/787.b6dff4bc.chunk.js",
+    "static/media/logo.svg": "/Context-API/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Context-API/index.html",
+    "main.bda15bb6.css.map": "/Context-API/static/css/main.bda15bb6.css.map",
+    "main.fc9bc286.js.map": "/Context-API/static/js/main.fc9bc286.js.map",
+    "787.b6dff4bc.chunk.js.map": "/Context-API/static/js/787.b6dff4bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda15bb6.css",
+    "static/js/main.fc9bc286.js"
+  ]
+}
