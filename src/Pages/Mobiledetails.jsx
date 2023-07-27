@@ -47,8 +47,8 @@ export default function Mobiledetails(){
   useEffect(()=>{
    
     fetch("https://user-data-9q7h.onrender.com/data").then((reponse)=>reponse.json()).then((result)=>{
-    if(result && result.data){
-      setPhones(result.data)
+    if(result){
+      setPhones(result)
     }}).catch((error) => console.log(error))
 
 
